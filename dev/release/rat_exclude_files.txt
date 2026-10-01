@@ -1,0 +1,4 @@
+.git
+*rat.txt
+dev/release/rat_exclude_files.txt
+target/*
